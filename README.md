@@ -3,7 +3,9 @@ This code shows contours of the face and the hand. If you show your hand up it w
 
 If you also want to make this project you will need:-
 Arduino Uno(or any arduino board of your choice)
+
 A Few LED's
+
 A few jumper wires
 
 That's all you need to make this project
