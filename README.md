@@ -11,4 +11,4 @@ A few jumper wires
 
 That's all you need to make this project
 
-If your in-built LED is not working, then you can use another LED in place of the non-working one
+➡️Tip:-(If your in-built LED is not working, then you can use another LED in place of the non-working one)
